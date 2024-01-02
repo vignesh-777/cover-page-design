@@ -3,7 +3,23 @@
 To develop a website to display the cover page design of a book
 
 ## Design Steps:
+### Step 1:
+Clone the GitHub repository.
 
+### Step 2:
+Create a Django Admin interface.
+
+### Step 3:
+Write the HTML code with relevant CSS properties.
+
+### Step 4:
+Choose the appropriate style and color scheme.
+
+### Step 5:
+Validate the HTML code.
+
+### Step 6:
+Publish the website in the given URL.
 
 ## Code:
 ```html
